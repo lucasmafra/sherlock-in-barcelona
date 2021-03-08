@@ -5,10 +5,9 @@ module.exports = {
       name: `Maithe e Lucas`,
       summary: `que são do Brasil, mas estão indo atrás do sonho de ser do mundo.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: ``,
+    siteUrl: `https://sherlock-in-barcelona.vercel.app/`,
     social: {
-      twitter: `kylemathews`,
     },
   },
   plugins: [
