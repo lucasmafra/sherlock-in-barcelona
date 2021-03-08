@@ -3,7 +3,7 @@ module.exports = {
     title: `Sherlock in Barcelona`,
     author: {
       name: `Maithe e Lucas`,
-      summary: `que são brasileiros indo atrás do sonho de ser do mundo.`,
+      summary: `que são do Brasil, mas estão indo atrás do sonho de ser do mundo.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
