@@ -5,7 +5,7 @@ date: "2021-03-07T22:15:00.000Z"
 
 Estamos hospedados em um pequeno hotel no bairro [Bbloku](https://en.wikipedia.org/wiki/Ish-Blloku), um dos bairros mais conhecidos de Tirana.
 
-Antigamente, este bairro era proíbido para entrada do público geral; apenas membros do partido comunista podiam frequentá-lo. Atualmente, é uma área cheia de bares, cafés, lounges e, claro, albaneses.
+Antigamente, este bairro era proibido para entrada do público geral; apenas membros do partido comunista podiam frequentá-lo. Atualmente, é uma área cheia de bares, cafés, lounges e, claro, albaneses.
 
 ## Primeiras impressões
 
