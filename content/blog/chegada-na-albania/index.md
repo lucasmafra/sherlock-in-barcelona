@@ -1,6 +1,7 @@
 ---
 title: Chegada na Albânia!
 date: "2021-03-06T22:15:00.000Z"
+image: ./passagens_albania.jpg
 ---
 
 Esse final de semana começamos uma das aventuras mais malucas e também mais incríveis de nossas vidas: mudar-se para a Europa!

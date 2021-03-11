@@ -6,7 +6,7 @@ module.exports = {
       summary: `que são do Brasil, mas estão indo atrás do sonho de ser do mundo.`,
     },
     description: ``,
-    siteUrl: `https://sherlock-in-barcelona.vercel.app/`,
+    siteUrl: `https://sherlock-in-barcelona.vercel.app`,
     social: {
     },
   },
