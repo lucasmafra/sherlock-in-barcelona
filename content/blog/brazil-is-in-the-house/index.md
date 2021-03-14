@@ -1,7 +1,7 @@
 ---
 title: Brazil is in the house!
 date: "2021-03-14T10:35:00Z"
-image: ./solzao_saranda.jpg
+image: ./american_blue.jpg
 ---
 
 Finalmente, nosso primeiro fim de semana em Saranda! Teve praia, castelo, restaurantes, terremoto... mas vamos começar pelo começo!
