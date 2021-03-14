@@ -20,7 +20,7 @@ George é um americano que depois de passar mais de 30 anos trabalhando como Eng
 Alban é um albanês (não, isso não é um trocadilho) que é fã de futebol brasileiro e conhece Sócrates, Rivelino, e Zico! Pena que no Brasil ele torce para o São Paulo.
 
 ![George e Alban](./george_alban.jpg)
-*George, Alban e Lucas*
+*George e Alban*
 
 
 ## Terremoto?
