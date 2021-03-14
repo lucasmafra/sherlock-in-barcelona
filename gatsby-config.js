@@ -11,6 +11,12 @@ module.exports = {
     },
   },
   plugins: [
+   {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `sherlock-in-barcelona`
+      }
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
