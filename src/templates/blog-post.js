@@ -32,6 +32,7 @@ const BlogPostTemplate = ({ data, location }) => {
           <p>{post.frontmatter.date}</p>
         </header>
         <CommentCount config={disqusConfig} placeholder={'...'} />
+        <br/><br/>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
