@@ -14,6 +14,7 @@ const BlogPostTemplate = ({ data, location }) => {
     url: `https://sherlock-in-barcelona.vercel.app/${location.pathname}`,
     identifier: post.id,
     title: post.title,
+    language: 'pt_BR'
   }
 
   return (

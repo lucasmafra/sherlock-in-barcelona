@@ -44,6 +44,11 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
+                  <div className="post-list__thumbnail">
+                    <Link to={post.fields.slug}>
+                      <img {...post.frontmatter.thumbnail.childImageSharp.fixed}/>
+                    </Link>
+                  </div>
                   <small>{post.frontmatter.date}</small>
                 </header>
                 <section>
@@ -82,6 +87,13 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          thumbnail {
+           childImageSharp {
+                fixed(width: 200, height: 200) {
+                  ...GatsbyImageSharpFixed
+               }
+            }
+          }
         }
       }
     }

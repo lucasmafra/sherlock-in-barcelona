@@ -1,6 +1,8 @@
 ---
 title: Primeiras impressões, tornozelo torcido e tiramisu!
 date: "2021-03-07T22:15:00.000Z"
+image: ./tiramisu.jpg
+thumbnail: ./tiramisu.jpg
 ---
 
 Estamos hospedados em um pequeno hotel no bairro [Bbloku](https://en.wikipedia.org/wiki/Ish-Blloku), um dos bairros mais conhecidos de Tirana.

@@ -2,6 +2,7 @@
 title: Dia de sol em Saranda
 date: "2021-03-11T22:15:00Z"
 image: ./solzao_saranda.jpg
+thumbnail: ./solzao_saranda.jpg
 ---
 
 Depois de uma quarta-feira de muita chuva e frio, hoje abriu um solzão aqui em Saranda e aproveitamos para conhecer um pouquinho mais da cidade.

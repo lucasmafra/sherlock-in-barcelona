@@ -1,6 +1,8 @@
 ---
 title: Alô Saranda!
 date: "2021-03-08T20:24:00Z"
+image: ./saranda.jpg
+thumbnail: ./saranda.jpg
 ---
 
 Hoje foi dia de mais viagem! Depois de um café da manhã apressado para não perder o ônibus, deixamos o hotel no Bbloku rumo a estação para pegarmos o ônibus para Saranda.

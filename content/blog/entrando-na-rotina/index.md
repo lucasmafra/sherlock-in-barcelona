@@ -1,6 +1,8 @@
 ---
 title: Entrando na rotina
 date: "2021-03-09T20:28:00Z"
+image: ./cafe_saranda.jpg
+thumbnail: ./cafe_saranda.jpg
 ---
 
 Após a euforia dos primeiros dias, estamos começando a (tentar) criar uma rotina. Como o Lucas trabalha durante o periodo da tarde e começo da noite, decidimos usar a manhã para passear na orla e conhecer um pouquinho a cidade. O apartamento fica há apenas 5 minutos andando (ou no caso da Maithe, 15 min mancando) da orla da praia.
