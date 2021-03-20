@@ -5,7 +5,7 @@ image: ./bandeira_albania.jpg
 thumbnail: ./bandeira_albania.jpg
 ---
 
-🚨🚨 **Ressalva importante:** Os posts são nossa visão (limitada) como brasileiros vivendo na Albânia há apenas 15 dias e que decidiram escrever sobre as curiosidades que mais os marcaram nesse começo - portanto, **não os tome como verdade absoluta**!
+🚨🚨 **Ressalva importante:** Os posts são nossa visão (limitada) como brasileiros vivendo na Albânia há apenas 15 dias e que decidiram escrever sobre as curiosidades que mais nos marcaram nesse começo - portanto, **não os tome como verdade absoluta**!
 
 ## 1. Quem tem euro vai a Roma 💸
 
@@ -78,7 +78,7 @@ Por sinal, os fast-foods daqui são deliciosos. O nosso favorito até agora é o
 
 ## 5. O melhor da Albânia são os albaneses
 
-Nós poderíamos encerrar o post falando sobre as praias paradisíacas da [Riviera Albanesa](https://en.wikipedia.org/wiki/Albanian_Riviera), os sítios arqueológicos de [Butrint](https://en.wikipedia.org/wiki/Butrint_National_Park) e a cidade medieval de [Girokastra](https://en.wikipedia.org/wiki/Gjirokast%C3%ABr) - mas nenhhum deles foi tão marcante para nós quanto a **simpatia e humildade** desse povo.
+Nós poderíamos encerrar o post falando sobre as praias paradisíacas da [Riviera Albanesa](https://en.wikipedia.org/wiki/Albanian_Riviera), os sítios arqueológicos de [Butrint](https://en.wikipedia.org/wiki/Butrint_National_Park) e a cidade medieval de [Girokastra](https://en.wikipedia.org/wiki/Gjirokast%C3%ABr) - mas nenhum deles foi tão marcante para nós quanto a **simpatia e humildade** desse povo.
 
 Desde que chegamos aqui nós já fomos presenteados com (cuidado, a lista é longa!): mexirica, leite, iogurte, bolo caseiro, café, raki (a pinga albanesa), chopp e **muitos** sorrisos! ❤️
 
