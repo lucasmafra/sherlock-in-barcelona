@@ -8,7 +8,6 @@ import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 
 const BlogPostTemplate = ({ data, location }) => {
   React.useEffect(() => {
-    console.log("using effect");
     let disqus = document.getElementById('disqus_thread');
 
     let remove_ads = setInterval(() => {
@@ -32,7 +31,6 @@ const BlogPostTemplate = ({ data, location }) => {
   }, []);
 
   const post = data.markdownRemark
-  console.log(post.frontmatter.thumbnail)
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const disqusConfig = {
