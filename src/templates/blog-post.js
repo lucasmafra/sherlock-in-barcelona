@@ -32,6 +32,7 @@ const BlogPostTemplate = ({ data, location }) => {
   }, []);
 
   const post = data.markdownRemark
+  console.log(post.frontmatter.thumbnail)
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
   const disqusConfig = {
@@ -46,6 +47,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        thumbnail={post.frontmatter.thumbnail.childImageSharp.fixed.base64}
       />
       <article
         className="blog-post"
@@ -119,6 +121,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        thumbnail {
+           childImageSharp {
+                fixed(width: 200, height: 200) {
+                  ...GatsbyImageSharpFixed
+               }
+            }
+        }
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
