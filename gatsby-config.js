@@ -5,8 +5,8 @@ module.exports = {
       name: `Maithe e Lucas`,
       summary: `que são do Brasil, mas estão indo atrás do sonho de ser do mundo.`,
     },
-    description: ``,
-    siteUrl: `https://sherlock-in-barcelona.vercel.app`,
+    description: `Blog da Maithe e do Lucas, que são do Brasil, mas estão indo atrás do sonho de ser do mundo.`,
+    siteUrl: `https://sherlock-in-barcelona.com/`,
     social: {
     },
   },
