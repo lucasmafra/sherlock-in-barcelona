@@ -48,6 +48,18 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          {
+            resolve: `gatsby-remark-interactive-gifs`,
+            options: {
+              root: `${__dirname}`,
+              src: `${__dirname}/src/gifs`,
+              dest: `${__dirname}/public/static/gifs`,
+              play: `${__dirname}/src/images/play.gif`,
+              placeholder: `${__dirname}/src/images/placeholder.gif`,
+              loading: `${__dirname}/src/images/loading.gif`,
+              relativePath: `/static/gifs`
+            },
+          },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,

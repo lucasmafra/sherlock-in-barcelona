@@ -20,6 +20,7 @@
     "gatsby-plugin-sharp": "^3.0.0",
     "gatsby-remark-copy-linked-files": "^3.0.0",
     "gatsby-remark-images": "^4.0.0",
+    "gatsby-remark-interactive-gifs": "^1.0.4",
     "gatsby-remark-normalize-paths": "^1.1.0",
     "gatsby-remark-prismjs": "^4.0.0",
     "gatsby-remark-responsive-iframe": "^3.0.0",
