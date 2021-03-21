@@ -47,7 +47,7 @@ const BlogPostTemplate = ({ data, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        thumbnail={post.frontmatter.thumbnail.childImageSharp.fixed.base64}
+        thumbnail={post.frontmatter.thumbnail.childImageSharp.fixed.src}
       />
       <article
         className="blog-post"
