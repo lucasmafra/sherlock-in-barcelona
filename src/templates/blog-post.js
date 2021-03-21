@@ -117,7 +117,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "D [de] MMMM [de] YYYY", locale: "pt_BR")
         description
         thumbnail {
            childImageSharp {
