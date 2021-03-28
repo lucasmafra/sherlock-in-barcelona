@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
+import EmailListForm from '../components/EmailListForm'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
@@ -62,6 +63,8 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <EmailListForm/>
+        <div style={{ height: 32 }}/>
         <Disqus config={disqusConfig} />
         <hr />
         <footer>

@@ -12,6 +12,12 @@ module.exports = {
   },
   plugins: [
    {
+     resolve: 'gatsby-plugin-mailchimp',
+     options: {
+       endpoint: 'https://sherlock-in-barcelona.us1.list-manage.com/subscribe/post?u=1e75d9964a864ceb7a9692f0d&amp;id=88968d64ad',
+     },
+   },
+   {
       resolve: `gatsby-plugin-disqus`,
       options: {
         shortname: `sherlock-in-barcelona`
