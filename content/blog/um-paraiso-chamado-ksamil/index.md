@@ -5,29 +5,59 @@ image: ./primeirafoto.jpg
 thumbnail: ./primeirafoto.jpg
 ---
 
-## Chegou a hora da queridinha da Albânia! 
+## Chegou a hora da queridinha da Albânia!
 
-Nesse final de semana fomos conhecer Ksamil, uma região muito visitada da Riviera Albanesa e um verdadeiro paraíso. 
+Nesse final de semana fomos conhecer Ksamil, uma região muito visitada da Riviera Albanesa e um verdadeiro paraíso.
 
-A gente chama de inexplorado por quê não vemos muitas propagandas desse lugar quanto vemos dos típicos destinos na Europa, e consequentemente as pessoas visitam menos, mas acreditem: vale tão a pena quanto.
+A gente chama de inexplorado porque não vemos tantas propagandas desse lugar quanto vemos dos balados destinos europeus, e consequentemente as pessoas visitam menos, mas acreditem: **vale tão a pena quanto**.
 
 ## O paraíso tem nome!
 
-É de tirar o fôlego a beleza desse lugar! Toda costa de Ksamil é exuberante, aquela vista que nao dá pra explicar em palavras... Talvez com fotos dê pra mostrar pra vocês um pouco do que vimos por lá, mas nem elas mostram a verdadeira pintura que é esse cantinho do mundo.
+E é de tirar o fôlego a beleza desse lugar! Toda costa de Ksamil é exuberante, aquela vista que nao dá pra explicar em palavras... A gente escreve, descreve, mostra fotos, mas nada é suficiente para ilustrar 100% a verdadeira pintura que é esse cantinho do mundo.
 
-![Praia de Bora-Bora](mar.jpg)
-*Praia de Bora-Bora* 
+![Praia de Bora-Bora](./mar.jpg)
+*Praia de Bora-Bora*
 
 
-![Praia de Bora-Bora](mar2.jpg)
-*Olhem a cor desse mar*  😱
+![Praia de Bora-Bora](./mar2.jpg)
+*Olhem a cor desse mar* 😱
 
-Algumas informações para quem planeja conhecer: o próprio ônibus municipal faz esse trajeto de Saranda <-> Ksamil, custa por volta de 1 euro e leva meia hora até o centro. Não tem taxa para entrar nas praias e é tudo bem estruturado para receber turistas no verão.
+## Como chegar?
 
-## Pôr do sol em Saranda
+Existe um ônibus munincipal que faz o trajeto Saranda <> Ksamil todos os dias, a cada 1 hora. O trajeto todo leva em torno de 30 minutos e custa 100 Lek por pessoa (o equivalente a 80 centavos de Euro, na cotação de hoje).
 
-Como bons caçadores do melhor pôr do sol, a gente termina esse post com mais uma pintura da natureza, só que agora no céu! 
+![Horário do ônibus que leva de Saranda a Ksamil](tabela_horario_onibus.jpg)
+*Horários do ônibus que leva de Saranda a Ksamil*
 
-Na sexta-feira pegamos o pôr do sol em um lugar estratégico em Saranda, com as pernas penduradas numa mureta e os pés tocando o mar. Fiquem com esse time lapse de encerramento, com a única certeza que temos: o sol se põe no horizonte e amanhã é um novo dia.
+Na chegada a Ksamil, **cuidado para não perder o ponto de descida**: não existe nenhuma sinalização e se não fosse a moça que estava do nosso lado para nos avisar teríamos perdido o ponto. 🤣
+
+![Ponto de chegada](ponto_de_onibus.jpeg)
+*Chegando em Ksamil, desça em frente ao Hotel AFA*
+
+## O que fazer em Ksamil?
+
+#### Praias, praias, e mais praias...
+
+Ksamil é cercada de praias paradisíacas, então uma vez que se chega lá não tem erro. Porém, existem duas praias mais famosas que destacamos aqui:
+
+#### 1. Bora-Bora Beach
+
+#### 2. Lori Beach
+
+## Vale a pena ir fora de temporada?
+
+Com certeza!
+
+Na primavera as temperaturas chegam a 20°C e dá para curtir a praia tranquilamente. Ainda que não se compare com o calor do verão, tem também o lado bom de poder curtir as praias em um ambiente mais deserto e silencioso.
+
+Só não vai fazer que nem o Lucas e tentar entrar no mar de cueca e sem roupa de troca 🤣🤣👇👇
+
+`video: https://www.youtube.com/watch?v=E7fZLqLv8t0`
+
+## Bate-volta de Saranda
+
+Ksamil fica tão perto que dá para fazer um bate-volta e ainda pegar o pôr do sol em Saranda!
+
+E por falar em pôr do sol, encerramos este post com o *time-lapse* que registramos mais cedo aqui em Saranda e com a única certeza de que temos: **o sol se põe no horizonte e amanhã é um novo dia**.
 
 Até a próxima 😊

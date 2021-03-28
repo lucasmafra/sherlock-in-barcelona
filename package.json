@@ -8,7 +8,6 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "antd": "^4.14.1",
     "gatsby": "^3.0.1",
     "gatsby-plugin-disqus": "^1.2.2",
     "gatsby-plugin-feed": "^3.0.0",
@@ -21,6 +20,7 @@
     "gatsby-plugin-react-helmet": "^4.0.0",
     "gatsby-plugin-sharp": "^3.0.0",
     "gatsby-remark-copy-linked-files": "^3.0.0",
+    "gatsby-remark-embed-video": "^3.1.1",
     "gatsby-remark-images": "^4.0.0",
     "gatsby-remark-interactive-gifs": "^1.0.4",
     "gatsby-remark-normalize-paths": "^1.1.0",
