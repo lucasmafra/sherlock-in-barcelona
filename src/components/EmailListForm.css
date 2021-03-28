@@ -53,3 +53,8 @@ button:hover {
       margin-top: 20px;
   }
 }
+
+.ant-message {
+    bottom: 64px !important;
+    top: unset !important;
+}
