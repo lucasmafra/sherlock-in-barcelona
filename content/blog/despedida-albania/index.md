@@ -7,7 +7,7 @@ thumbnail: ./mochilas.jpg
 
 Olha nós de novo aí gente! Depois de 21 dias, 750km e vários euros mais pobres, finalmente conseguimos um tempinho para atualizar o blog.
 
-Teve despedida da Albânia, chegada de novos ares (frios, diga-se de pasasagem), e muitas histórias... Mas vamos começar pelo começo!
+Teve despedida da Albânia, chegada de novos ares (frios, diga-se de passagem), e muitas histórias... Mas vamos começar pelo começo!
 
 # Butrint
 
@@ -22,7 +22,7 @@ No nosso último fim de semana em Saranda nos rendemos às várias indicações 
 ![Lucas butrint](./lucas_butrint.jpg)
 
 ![Maithe basilica](./maithe_basilica.jpg)
-*Eu dando uma de blogeirinha* 😂
+*Eu dando uma de blogueirinha* 😂
 
 # Até logo Saranda
 
